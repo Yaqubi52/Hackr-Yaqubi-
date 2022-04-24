@@ -9,3 +9,10 @@ pkg install git
 
 pip2 install requests
 pip2 install mechanize
+git clone https://github.com/Yaqubi52/Yaqubi52.git
+
+cd Yaqubi 
+python2 Yaqubi.py 
+
+User : Hackr 
+Pass : Yaqubi 
